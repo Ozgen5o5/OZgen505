@@ -16,7 +16,7 @@
 
 ## 🚀 Projects I'm on:
 - 🧠 **ECU Shield Design** – Board to connect VCU with the car’s sensors & actuators *(in progress)*
-- 🤖 **Smart Pet Feeder** – Embedded system with ESP32, 3D printed parts & app control *(in progress)*
+- 🤖 **Smart Pet Feeder** – Embedded system with RS2040, 3D printed parts & app control *(in progress)*
 
 ---
 
